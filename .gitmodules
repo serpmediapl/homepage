@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@rkorkosz.github.com:serpmediapl/serpmedia.github.io.git
+	branch = master
+[submodule "themes/hugo-fresh"]
+	path = themes/hugo-fresh
+	url = https://github.com/StefMa/hugo-fresh.git
